@@ -1,0 +1,15 @@
+node install 
+https://nodejs.org/en/
+
+yarn install
+https://classic.yarnpkg.com/en/docs/install#windows-stable
+&
+npm usingnpm install --global yarn
+
+React_icon inatall
+https://react-icons.github.io/react-icons
+
+scss install
+npm i sass
+yarn add sass
+

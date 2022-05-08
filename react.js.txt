@@ -21,6 +21,13 @@ yarn caeate react-app  project-name
 setup 3
 yarn project start not working powersell yarn project start useing command prompt 
 
+component 
+
+1)create component folder in src folder📂 
+2)
+
+
+
 
 
 
