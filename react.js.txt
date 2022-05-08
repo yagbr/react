@@ -4,7 +4,7 @@ link
 https://nodejs.org/en/
 install is recommended for most users
 
-and
+or
 yarn using 
 npm install --global yarn
   
@@ -15,7 +15,7 @@ yarn add package-name
 
 setup 2
 installationnpx create-react-app project-name
-and 
+or
 yarn caeate react-app  project-name
 
 setup 3
